@@ -15,10 +15,3 @@ cases if necessary. For example n=2048 and pad=30 means n=2070.
 
 To run multiple tests at the same time, you can use starter.py. Some of the
 padding in starter.py are set as 1, and you may want to change them.
-
-We use main.c to measure the running time and performance. You can modify
-your main.c, but this file will be in its original version when grading.
-
-We use hpc-001 to test your performance when grading. You can test and
-debug your code on other computers, but make sure to check them before
-submission on hpc-001.
